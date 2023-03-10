@@ -22,6 +22,11 @@ Requirements
  *   The new balance will be displayed
  *   You can choose to play again or quit the game
  
+# Credit:
+  This slot machine game was created by Kaiftech.
+
+  GitHub: https://github.com/Kaiftech
+
 Thank you for checking out this simple command-line slot machine game! I hope you enjoyed playing it as much as I enjoyed creating it. If you have any feedback or suggestions for improvement, please feel free to let me know.
 
 Happy gaming!
